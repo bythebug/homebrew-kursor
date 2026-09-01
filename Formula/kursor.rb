@@ -1,8 +1,8 @@
 class Kursor < Formula
   desc "Global hotkey LLM text inserter for macOS"
   homepage "https://github.com/bythebug/kursor"
-  url "https://github.com/bythebug/kursor/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "9128c50067081b6df3d20f6f4528daf52d1a14a7063ec0b39be9a26b36653a10"
+  url "https://github.com/bythebug/kursor/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "0e71704e3516d9b7995cd6dc27ba0c21bb06b33ba7ae542716cdd0af5b65d629"
   license "MIT"
 
   depends_on :macos
